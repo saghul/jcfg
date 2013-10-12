@@ -14,6 +14,7 @@ Usage
 -----
 
 ::
+
     jcfg --input template_file --output out_file.cfg --context settings.py
 
 The file passed as the content must be a valid Python module, with an attribute called "context".
